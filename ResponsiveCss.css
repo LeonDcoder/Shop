@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800&amp;display=swap')
+
+*,
+*:before,
+*:after {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+}
+desk-1{
+	width: 8.333333%;
+}
+desk-2{
+	width: 16.666667;
+}
+desk-3{
+	width: 25%;
+}
+desk-4{
+	width: 33.333333%;
+}
+desk-5{
+	width: 41.666667%;
+}
+desk{
+	width: 50%;
+}
+desk-7{
+	width: 58.333333%;
+}
+desk-8{
+	width: 66.666667%;
+}
+desk-9{
+	width: 75%;
+}
+desk-10{
+	width: 83.333333%;
+}
+desk-11{
+	width: 91.666667%;
+}
+desk-12{
+	width: 100%;
+}
+
+@media (max-width: 1024px) {
+	.ipad-1{
+		width: 8.333333%;
+	}
+	.ipad-2{
+		width: 16.666667%;
+	}
+	.ipad-3{
+		width: 25%;
+	}
+	.ipad-4{
+		width: 33.333333%;
+	}
+	.ipad-5{
+		width: 41.666667%;
+	}
+	.ipad{
+		width: 50%;
+	}
+	.ipad-7{
+		width: 58.333333%;
+	}
+	.ipad-8{
+		width: 66.666667%;
+	}
+	.ipad-9{
+		width: 75%;
+	}
+	.ipad-10{
+		width: 83.333333%;
+	}
+	.ipad-11{
+		width: 91.666667%;
+	}
+	.ipad-12{
+		width: 100%;
+	}
+}
+
+@media (max-width: 768px) {
+	.tab-1{
+		width: 8.333333%;
+	}
+	.tab-2{
+		width: 16.666667%;
+	}
+	.tab-3{
+		width: 25%;
+	}
+	.tab-4{
+		width: 33.333333%;
+	}
+	.tab-5{
+		width: 41.666667%;
+	}
+	.tab-6{
+		width: 50%;
+	}
+	.tab-7{
+		width: 58.333333%;
+	}
+	.tab-8{
+		width: 66.666667%;
+	}
+	.tab-9{
+		width: 75%;
+	}
+	.tab-10{
+		width: 83.333333%;
+	}
+	.tab-11{
+		width: 91.666667%;
+	}
+	.tab{
+		width: 100%;
+	}
+}
+
+@media (max-width: 500px) {
+	.mobile-1{
+		width: 8.333333%;
+	}
+	.mobile-2{
+		width: 16.666667%;
+	}
+	.mobile-3{
+		width: 25%;
+	}
+	.mobile-4{
+		width: 33.333333%;
+	}
+	.mobile-5{
+		width: 41.666667%;
+	}
+	.mobile-6{
+		width: 50%;
+	}
+	.mobile-7{
+		width: 58.333333%;
+	}
+	.mobile-8{
+		width: 66.666667%;
+	}
+	.mobile-9{
+		width: 75%;
+	}
+	.mobile-10{
+		width: 83.333333%;
+	}
+	.mobile-11{
+		width: 91.666667%;
+	}
+	.mobile{
+		width: 100%;
+	}
+}
